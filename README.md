@@ -113,7 +113,9 @@ The objective is to build a predictive model capable of identifying high‑risk 
 ---
 
 ## 📁 Repository Structure
-
+├── Capstone.ipynb          # Complete Jupyter Notebook
+├── README.md               # Project Documentation
+└── dataset/                # Dataset (not included if restricted)
 ### Author
 Adebiyi Olasunkanmi
 M.Sc. Business administration | Machine Learning engineer | Data Science Enthusiast
