@@ -114,7 +114,8 @@ The objective is to build a predictive model capable of identifying high‑risk 
 
 ## 📁 Repository Structure
 
-
+### Author
+Adebiyi Olasunkanmi
 M.Sc. Business administration | Machine Learning engineer | Data Science Enthusiast
 
 GitHub: https://github.com/adebiyiolasunkanmi100
